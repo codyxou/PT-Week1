@@ -1,1 +1,1 @@
-Read me file for week 1
+read me file
